@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932481246765",
+    "project_id": "intelligent-security",
+    "storage_bucket": "intelligent-security.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932481246765:android:a9a95e1770d0070afa3aa4",
+        "android_client_info": {
+          "package_name": "com.intelligent.security"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XnOoLMn0Fg6kkTX3Udmo73aLeM85l2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
